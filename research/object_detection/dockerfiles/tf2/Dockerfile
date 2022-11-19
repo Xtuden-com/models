@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.2.0-gpu
+FROM tensorflow/tensorflow:2.8.4-gpu
 
 ARG DEBIAN_FRONTEND=noninteractive
 
